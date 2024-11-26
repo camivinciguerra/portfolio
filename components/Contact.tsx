@@ -36,7 +36,7 @@ export default function Contact() {
               whileHover={{ scale: 1.05 }}
             >
               <Phone className="text-pink-500 mr-3" />
-              <a href="tel:+1234567890" className="text-gray-800 hover:text-pink-600 transition-colors">
+              <a href="tel:+54 9 11 2465 4490" className="text-gray-800 hover:text-pink-600 transition-colors">
                 +54 9 11 2465 5590
               </a>
             </motion.div>
@@ -47,7 +47,7 @@ export default function Contact() {
               whileHover={{ scale: 1.05 }}
             >
               <Linkedin className="text-pink-500 mr-3" />
-              <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" className="text-gray-800 hover:text-pink-600 transition-colors">
+              <a href="https://www.linkedin.com/in/camila-vinciguerra" target="_blank" rel="noopener noreferrer" className="text-gray-800 hover:text-pink-600 transition-colors">
                 linkedin.com/in/camila-vinciguerra
               </a>
             </motion.div>
@@ -58,7 +58,7 @@ export default function Contact() {
               whileHover={{ scale: 1.05 }}
             >
               <Mail className="text-pink-500 mr-3" />
-              <a href="mailto:your.email@example.com" className="text-gray-800 hover:text-pink-600 transition-colors">
+              <a href="mailto:camivinci7@gmail.com" className="text-gray-800 hover:text-pink-600 transition-colors">
                 camivinci7@gmail.com
               </a>
             </motion.div>
