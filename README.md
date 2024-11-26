@@ -2,23 +2,19 @@
 
 Welcome to my personal portfolio! This repository contains the code for my portfolio website, where I showcase my projects, skills, and professional achievements in software development and technology.
 
-Technologies Used
+**Technologies Used**
+Frontend: React, TypeScript, Tailwind CSS
 
-Frontend: React, TypeScript, Tailwind CSS, Astro
-Backend: (Add your backend technologies here, if applicable)
-Other: (Any other tools or libraries you used)
-Features
-
+**Features**
 Featured Projects: A collection of significant projects that I’ve worked on, demonstrating my technical abilities.
 Awards & Recognition: Information about awards and recognitions I've received throughout my career.
 Skills: A detailed list of my technical and soft skills.
 Contact: Contact information or a contact form for professional inquiries.
-Objective
 
+**Objective**
 The purpose of this portfolio is to highlight my progress and experience as a developer. It's designed to help potential employers, collaborators, or clients understand my work and get in touch with me.
 
 **Setup and Installation**
-
 To run this portfolio locally, follow these steps:
 
 Clone the repository:
@@ -32,6 +28,5 @@ npm run dev
 Visit http://localhost:3000 in your browser to view the portfolio.
 
 **Contributions**
-
 If you'd like to contribute to the development of this portfolio or have suggestions, feel free to open an issue or submit a pull request. All contributions are welcome!
 
