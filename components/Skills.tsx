@@ -5,7 +5,7 @@ import { useInView } from 'react-intersection-observer'
 
 const skills = [
   'HTML5', 'CSS3', 'JavaScript', 'React', 'Next.js', 'Node.js', 
-  'Java', 'SQL Server', 'Tailwind CSS', 'Git', 'Figma'
+  'Java', 'SQL Server', 'Tailwind CSS', 'Git', 'Figma', 'CSS', 'C'
 ]
 
 export default function Skills() {
