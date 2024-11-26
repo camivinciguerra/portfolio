@@ -20,7 +20,7 @@ export default function About() {
         >
           <h2 className="text-4xl font-bold mb-8 text-center text-pink-500 font-cursive">About Me</h2>
           <p className="text-lg max-w-2xl mx-auto text-center text-gray-700 bg-pink-100 p-6 rounded-lg shadow-lg">
-            I'm a passionate web developer dedicated to creating unique and engaging digital experiences. 
+            I&apos;m a passionate web developer dedicated to creating unique and engaging digital experiences. 
             With a focus on innovation and creativity, I strive to combine design and functionality 
             to deliver outstanding web solutions that stand out.
           </p>
