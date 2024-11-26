@@ -22,7 +22,7 @@ export default function Navbar() {
             Camila Vinciguerra
           </motion.div>
           <ul className="flex space-x-4">
-            {navItems.map((item, index) => (
+            {navItems.map((item) => (
               <motion.li key={item} whileHover={{ scale: 1.1 }}>
                 <Link href={`#${item.toLowerCase()}`} className="text-white hover:text-pink-600 transition-colors font-semibold">
                   {item}
