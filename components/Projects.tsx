@@ -2,6 +2,7 @@
 
 import { motion } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
+import Image from 'next/image';
 
 const projects = [
   {
@@ -40,7 +41,7 @@ export default function Projects() {
               animate={inView ? { opacity: 1, y: 0 } : {}}
               transition={{ duration: 0.5, delay: index * 0.2 }}
             >
-              <img src={project.image} alt={project.title} className="w-full h-48 object-cover" />
+              <Image src={project.image} alt={project.title} className="w-full h-48 object-cover" />
               <div className="p-4">
                 <h3 className="text-xl font-semibold mb-2 text-pink-600">{project.title}</h3>
                 <p className="text-gray-700">{project.description}</p>
